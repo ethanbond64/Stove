@@ -1,3 +1,4 @@
+//Lucy Mahorner and Ethan Bond
 
 public enum Setting {
 	OFF("---"), LOW("--+"), MEDIUM("-++"), HIGH("+++");
